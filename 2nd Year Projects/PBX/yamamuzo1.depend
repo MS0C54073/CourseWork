@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1557219185 source:c:\users\alichi\desktop\ali c++\yamamuzo1\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1557179292 source:e:\yamamuzo1\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1557178500 source:e:\yamamuzo1\src\pbx.cpp
+	"PBX.h"
+
+1557178498 e:\yamamuzo1\include\pbx.h
+
+1557256414 source:c:\users\brinjals\documents\original coursework\yamamuzo1\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<iomanip>
+
